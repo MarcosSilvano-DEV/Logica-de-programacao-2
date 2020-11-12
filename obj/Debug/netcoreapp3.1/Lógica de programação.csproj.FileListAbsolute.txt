@@ -1,0 +1,4 @@
+C:\Lógica de programação\obj\Debug\netcoreapp3.1\Lógica de programação.csprojAssemblyReference.cache
+C:\Lógica de programação\obj\Debug\netcoreapp3.1\Lógica de programação.AssemblyInfoInputs.cache
+C:\Lógica de programação\obj\Debug\netcoreapp3.1\Lógica de programação.AssemblyInfo.cs
+C:\Lógica de programação\obj\Debug\netcoreapp3.1\Lógica de programação.csproj.CoreCompileInputs.cache
